@@ -18,7 +18,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.3.1",
-    "recoil": "^0.5.2",
+    "recoil": "^0.7.7",
     "redux": "^4.1.2",
     "regenerator-runtime": "0.13.7",
     "shiki": "0.9.4",
